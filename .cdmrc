@@ -1,2 +1,2 @@
-tabs: ['index.html', '.cdmrc']
+tabs: ['index.html', '.cdmrc', 'README.md']
 terminals: [static-server -p 1337 --no-cache]
